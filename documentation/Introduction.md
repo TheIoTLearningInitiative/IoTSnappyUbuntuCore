@@ -33,3 +33,23 @@
     docker        2015-12-21 1.6.2.005 canonical 
     webdm         2015-11-13 0.9.4     canonical 
     generic-amd64 2015-11-13 1.4       canonical 
+    (amd64)ubuntu@localhost:~$ sudo snappy install hello-world
+    Installing hello-world
+    Starting download of hello-world
+    21.60 KB / 21.60 KB [===================================================================================================================================================] 100.00 % 48.87 KB/s 
+    Done
+    Starting download of icon for package
+    33.77 KB / 33.77 KB [===================================================================================================================================================] 100.00 % 10.97 KB/s 
+    Done
+    Name          Date       Version   Developer 
+    ubuntu-core   2015-11-13 10        ubuntu    
+    docker        2015-12-21 1.6.2.005 canonical 
+    hello-world   2015-12-21 1.0.18    canonical 
+    webdm         2015-11-13 0.9.4     canonical 
+    generic-amd64 2015-11-13 1.4       canonical 
+    (amd64)ubuntu@localhost:~$ snappy info
+    release: ubuntu-core/15.04/stable
+    architecture: amd64
+    frameworks: docker.canonical, webdm.canonical
+    apps: hello-world.canonical
+    (amd64)ubuntu@localhost:~$ 
