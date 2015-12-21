@@ -1,5 +1,14 @@
 # SandBox
 
+
+    (amd64)ubuntu@localhost:~$ snappy info
+    release: ubuntu-core/15.04/stable
+    architecture: amd64
+    frameworks: webdm.canonical
+    apps: 
+    (amd64)ubuntu@localhost:~$ 
+
+
     (amd64)ubuntu@localhost:~$ dmesg
     [    0.000000] Initializing cgroup subsys cpuset
     [    0.000000] Initializing cgroup subsys cpu
