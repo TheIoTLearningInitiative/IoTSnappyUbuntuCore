@@ -1,10 +1,10 @@
 # Introduction
 
 
-$ sudo apt-add-repository ppa:snappy-dev/tools
-$ sudo apt update
-$ sudo apt install snappy-tools
-$ sudo apt install snapcraft
+    $ sudo apt-add-repository ppa:snappy-dev/tools
+    $ sudo apt update
+    $ sudo apt install snappy-tools
+    $ sudo apt install snapcraft
 
 snappy build        - make snap packages out of a file hierarchy
 snappy-remote       - run snappy operations on remote snappy target by IP
