@@ -1,6 +1,12 @@
 # Introduction
 
 
+$ sudo apt-add-repository ppa:snappy-dev/tools
+$ sudo apt update
+$ sudo apt install snappy-tools
+$ sudo apt install snapcraft
+
+
     (amd64)ubuntu@localhost:~$ snappy info
     release: ubuntu-core/15.04/stable
     architecture: amd64
