@@ -539,7 +539,7 @@
 [    5.893802] systemd[1]: Started Create list of required static device nodes for the current kernel.
 [    5.895890] systemd[1]: Started Remount Root and Kernel File Systems.
 [    5.897925] systemd[1]: Started Increase datagram queue length.
-[    5.903397] systemd[1]: Started Nameserver information manager.
+    [    5.903397] systemd[1]: Started Nameserver information manager.
     [    5.910159] systemd[1]: Started udev Coldplug all Devices.
     [    5.976873] systemd[1]: Listening on Syslog Socket.
     [    5.977480] systemd[1]: Starting Syslog Socket.
