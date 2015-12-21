@@ -12,7 +12,6 @@
     ubuntu-device-flash - image creation tool for snappy ubuntu
 
 
-
     (amd64)ubuntu@localhost:~$ snappy info
     release: ubuntu-core/15.04/stable
     architecture: amd64
