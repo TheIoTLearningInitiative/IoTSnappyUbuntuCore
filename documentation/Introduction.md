@@ -1,6 +1,8 @@
 # Introduction
 
+https://ograblog.wordpress.com/2015/01/25/porting-ubuntu-snappy-to-a-yet-unsupported-armhf-board/
 
+```sh
     $ sudo apt-add-repository ppa:snappy-dev/tools
     $ sudo apt update
     $ sudo apt install snappy-tools
@@ -64,3 +66,4 @@
     frameworks: docker.canonical, webdm.canonical
     apps: hello-world.canonical
     (amd64)ubuntu@localhost:~$ 
+```
