@@ -2,6 +2,7 @@
 
 - [Porting Ubuntu Snappy to a yet unsupported armhf board Posted on](https://ograblog.wordpress.com/2015/01/25/porting-ubuntu-snappy-to-a-yet-unsupported-armhf-board/)
 - [Snappy for Devices porting guide](https://developer.ubuntu.com/en/snappy/guides/porting/)
+- [Embedded Linux Conference Snappy Ubuntu Core](http://events.linuxfoundation.org/sites/events/files/slides/Snappy%20Ubuntu%20Core_0.pdf)
 
 ```sh
     $ sudo apt-add-repository ppa:snappy-dev/tools
